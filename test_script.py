@@ -1,2 +1,3 @@
+import sys
 print("OK")
-return 10
+sys.exit(1)
