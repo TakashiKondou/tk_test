@@ -3,7 +3,7 @@ python:
     - "3.2"
 install:
 #    - pip install matplotlib
-script: pyhon test_script.py
+script: python test_script.py
 notifications:
     email:
         on_success: never
