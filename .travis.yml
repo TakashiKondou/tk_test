@@ -1,1 +1,6 @@
 language: python
+python:
+    - "3.2"
+install:
+    - pip install matplotlib
+script: pyhon test_script.py
