@@ -1,3 +1,3 @@
 import sys
 print("OK")
-sys.exit(1)
+sys.exit(0)
